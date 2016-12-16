@@ -10,7 +10,7 @@ Obviuously, you need working installations of Python3, Qt5 and PyQt5.
 Python bindings for custom C++ library are created with SIP. So you need to install SIP packages:
 
 ```sh
-sudo apt get install pyqt5-dev python3-pyqt5 python3-sip python3-sip-dev sip-dev
+sudo apt-get install pyqt5-dev python3-pyqt5 python3-sip python3-sip-dev sip-dev
 ```
 
 
